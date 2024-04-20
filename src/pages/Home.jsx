@@ -7,7 +7,7 @@ import Mission from "../components/mission/Mission";
 import Truck from "../components/infinitive truck/Truck";
 import Gallery from "../components/gallery/Gallery";
 import Testimonial from "../components/testimonialCarousel/Testimonial";
-import Blog from "../components/blog/Blog";
+// import Blog from "../components/blog/Blog";
 import Footer from "./Footer";
 import { Contact } from "./Contact";
 import Expert from "../components/expert/Expert";
@@ -51,7 +51,7 @@ const Home = () => {
       <Truck />
       <Gallery />
       <Testimonial />
-      <Blog />
+      {/* <Blog /> */}
       <Expert />
       <Contact />
       <ScrollToTopButton/>

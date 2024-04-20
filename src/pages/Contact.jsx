@@ -71,19 +71,19 @@ export const Contact = () => {
             <span className="iconSpan">
               <img src={location} alt="" width="100%" />{" "}
             </span>
-            <p>Türkiye, Istanbul, sariyer</p>
+            <p>Panvel, Maharashtra, India</p>
           </div>
           <div className="boxInner">
             <span className="iconSpan">
               <img src={email} alt="" width="100%" />{" "}
             </span>
-            <p>info@bigadigitalagency.com</p>
+            <p>umeshbhagat28@gmail.com</p>
           </div>
           <div className="boxInner">
             <span className="iconSpan">
               <img src={facebook} alt="" width="100%" />{" "}
             </span>
-            <p>+90505054948</p>
+            <p>+91 9322446667</p>
           </div>
         </div>
         {/* <div className="boxTwo"> */}

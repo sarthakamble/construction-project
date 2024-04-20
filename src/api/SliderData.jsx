@@ -8,7 +8,7 @@ import { default as thirdlarge } from "../assets/images/x-desktop-third.jpg";
 const SliderData = [
   {
     id: 1,
-    title: "Welcome to Construction Co.",
+    title: "Welcome to Lifespace",
     description:
       "We are a leading construction company committed to excellence.",
 
@@ -17,9 +17,9 @@ const SliderData = [
   },
   {
     id: 2,
-    title: "Welcome to Construction Co.",
+    title: "Welcome to Lifespace",
     description:
-      "At Construction Co., we take pride in constructing your dreams into reality.",
+      "At Lifespace, we take pride in constructing your dreams into reality.",
     img1: firstMobile,
     img2: firstlarge,
   },
@@ -27,7 +27,7 @@ const SliderData = [
     id: 3,
     title: "Building a Better Future Together",
     description:
-      "Welcome to Construction Co., where we believe in creating exceptional spaces that stand the test of time.",
+      "Welcome to Lifespace, where we believe in creating exceptional spaces that stand the test of time.",
     img1: thirdMobile,
     img2: thirdlarge,
   },

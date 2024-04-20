@@ -9,7 +9,7 @@ const Map = () => {
   const map = async () => {
     try {
       const response = await fetch(
-        "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d96105.17756331305!2d28.941896408124347!3d41.17191140911738!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x409fe02232a852d7%3A0x3a86cad07b1a4ec4!2zU2FyxLF5ZXIvxLBzdGFuYnVs!5e0!3m2!1str!2str!4v1690198115518!5m2!1str!2str"
+        "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3772.544409023878!2d73.1079831!3d18.9957177!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7e83ee4089223%3A0x4580410c6e677978!2sNeelkanth%20Prestige%2C%20Swami%20Nityanand%20Rd%2C%20Nityanand%20Nagar%2C%20HOC%20Colony%2C%20Panvel%2C%20Navi%20Mumbai%2C%20Maharashtra%20410206!5e0!3m2!1sen!2sin!4v1713593719998!5m2!1sen!2sin"
       );
 
       setFetchData(response);
