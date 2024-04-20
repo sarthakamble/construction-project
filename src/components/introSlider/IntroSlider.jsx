@@ -58,9 +58,9 @@ const IntroSlider = () => {
                 {slide.description}
               </motion.p>
             </div>
-            <div className="countUpLegend">
+            {/* <div className="countUpLegend">
               <CountUpFunc />
-            </div>
+            </div> */}
           </div>
         ))}
        

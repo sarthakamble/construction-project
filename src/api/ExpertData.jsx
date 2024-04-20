@@ -9,39 +9,39 @@ const expertData = [
   {
     id: 1,
     image: eric,
-    name: "Matthews Solomon",
-    title: "Structural engineering",
-  },
-  {
-    id: 2,
-    image: michael,
-    name: "Penny Wirsing",
-    title: "Water engineering",
-  },
-  {
-    id: 3,
-    image: ahmed,
-    name: "Ruth Gordon",
-    title: "Transport engineering",
-  },
-  {
-    id: 4,
-    image: img6,
-    name: "John Doe",
-    title: "Marine engineer",
-  },
-  {
-    id: 5,
-    image: samuel,
-    name: "Veronica Johnson",
-    title: "Geotechnical engineering",
-  },
-  {
-    id: 6,
-    image: anamuel,
-    name: "Warren Chase",
+    name: "Mr. Umesh Bhagat",
     title: "Construction and management.",
   },
+  // {
+  //   id: 2,
+  //   image: michael,
+  //   name: "Penny Wirsing",
+  //   title: "Water engineering",
+  // },
+  // {
+  //   id: 3,
+  //   image: ahmed,
+  //   name: "Ruth Gordon",
+  //   title: "Transport engineering",
+  // },
+  // {
+  //   id: 4,
+  //   image: img6,
+  //   name: "John Doe",
+  //   title: "Marine engineer",
+  // },
+  // {
+  //   id: 5,
+  //   image: samuel,
+  //   name: "Veronica Johnson",
+  //   title: "Geotechnical engineering",
+  // },
+  // {
+  //   id: 6,
+  //   image: anamuel,
+  //   name: "Warren Chase",
+  //   title: "Construction and management.",
+  // },
 ];
 
 export default expertData;

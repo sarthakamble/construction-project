@@ -12,7 +12,7 @@ const Intro = () => {
         </h4>
         <p className="landingText">
           {" "}
-          Welcome to <span className="highlight">Construction Co.</span>
+          Welcome to <span className="highlight">Lifespace</span>
           <br /> where we believe in creating exceptional spaces that stand the
           test of time.{" "}
         </p>

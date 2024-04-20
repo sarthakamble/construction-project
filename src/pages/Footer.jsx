@@ -26,7 +26,7 @@ const Footer = () => {
           </h3>
           <p>
             With over decades of experience in the construction industry,{" "}
-            <span className="companyName">Construction co.</span> is a trusted
+            <span className="companyName">Lifespace</span> is a trusted
             name known for delivering high-quality projects on time and within
             budget.
           </p>
@@ -99,10 +99,10 @@ const Footer = () => {
       </div>
       <div className="copyRight">
         <p>
-          © <span className="companyName">Construction co.</span> All Rights
+          © <span className="companyName">Lifespace</span> All Rights
           Reserved.
         </p>
-        <p> Designed by bigadigitalagency.com</p>
+        <p> Designed by pamble20comp@student.mes.ac.in</p>
       </div>
     </footer>
   );

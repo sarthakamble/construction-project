@@ -32,7 +32,7 @@ export const Navbar = () => {
           <Link to="/">
             <div className="logo" onClick={scrollTop}>
               <img src={logo} alt="logo" width="100%" />
-              <span className="logo-span">C-co.</span>
+              <span className="logo-span">Lifespace</span>
             </div>
           </Link>
 

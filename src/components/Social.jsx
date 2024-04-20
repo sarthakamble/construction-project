@@ -5,8 +5,8 @@ export const Social = () => {
     <div className='socialContainer'>
       <div className='socialNested'>
         <div className='social-left'>
-            <p className='fa-envelopeP'><i className="fa-solid fa-envelope"></i>bigadigitalagency.com</p>
-            <p className='fa-phoneP'><i className="fa-solid fa-phone"></i>+235849589</p>
+            <p className='fa-envelopeP'><i className="fa-solid fa-envelope"></i>umeshbhagat28@gmail.com</p>
+            <p className='fa-phoneP'><i className="fa-solid fa-phone"></i>9322446667</p>
         </div>
         <div className='social-right'>
             <p><i className="fa-brands fa-whatsapp"></i></p>
