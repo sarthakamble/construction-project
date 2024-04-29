@@ -12,14 +12,14 @@ const TestiContent = ({ indexActive, slideData, previousSlide, nextSlide }) => {
             className={index === indexActive ? "slideDiv aktive" : "inaktive"}
             >
         
-              <img
+              {/* <img
                 src={slide.image}
                 alt="profile"
                 className="profileImage"
                 width="100%"
-              />
+              /> */}
               <p className="profileName">{slide.name}</p>
-              <p className="company">{slide.title}</p>
+              {/* <p className="company">{slide.title}</p> */}
               <div className="line"> </div>
               <p className="slideText">{slide.message}</p>
             </div>
