@@ -34,16 +34,17 @@ const Gallery = () => {
             <img src={first} alt="project One" />
           </div>
           <div className="bottomConten">
-            <h3 className="bottomTitle">Residential Towers </h3>
-            <p>The project will consist of three residential towers</p>
+            <h3 className="bottomTitle">Shree Kutir </h3>
+            <p>The project will consist of 5 floor residential tower</p>
           </div>
           <div className="contentBox">
             <div className="contentSelf">
-              <h3>Istanbul</h3>
+              <h3>Shree Kutir</h3>
               <p>
-                A city with a vibrant metropolis bridging two continents, boasts
-                a rich history, stunning architecture, and a captivating blend
-                of Eastern and Western cultures.
+              With its prime location bridging the gap between tradition and modernity, 
+              Shree Kutir serves as a vibrant hub where people from all walks of life come together to celebrate the beauty of diversity. 
+              It's more than just a structure,
+              it's a symbol of unity, resilience, and the enduring spirit of Panvel.
               </p>
             </div>
           </div>
@@ -70,7 +71,7 @@ const Gallery = () => {
             <img src={two} alt="second project" />
           </div>
           <div className="bottomConten">
-            <h3 className="bottomTitle">Parking</h3>
+            <h3 className="bottomTitle">Elevation plan</h3>
             <p>
               An underground parking facility will be constructed to accommodate
               residents' vehicles
@@ -78,11 +79,9 @@ const Gallery = () => {
           </div>
           <div className="contentBox">
             <div className="contentSelf">
-              <h3>Istanbul</h3>
+              <h3>Elevation plan</h3>
               <p>
-                A city with a vibrant metropolis bridging two continents, boasts
-                a rich history, stunning architecture, and a captivating blend
-                of Eastern and Western cultures.
+              The image shows front elevation plan for upcoming project.
               </p>
             </div>
           </div>
@@ -108,7 +107,7 @@ const Gallery = () => {
             <img src={three} alt="project" />
           </div>
           <div className="bottomConten">
-            <h3 className="bottomTitle">Sustainable Design </h3>
+            <h3 className="bottomTitle">Sai Narayan </h3>
             <p>
               The construction will follow eco-friendly practices, with
               energy-efficient systems
@@ -116,11 +115,10 @@ const Gallery = () => {
           </div>
           <div className="contentBox">
             <div className="contentSelf">
-              <h3>Istanbul</h3>
+              <h3>Sai Narayan</h3>
               <p>
-                A city with a vibrant metropolis bridging two continents, boasts
-                a rich history, stunning architecture, and a captivating blend
-                of Eastern and Western cultures.
+              In the heart of Panvel stands Sai Narayan, a testament to timeless tradition and forward-thinking innovation. 
+              With its rich history and cutting-edge design, it serves as a beacon of hope and inspiration for generations to come.
               </p>
             </div>
           </div>

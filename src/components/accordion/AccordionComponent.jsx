@@ -88,7 +88,7 @@ const AccordionComponent = () => {
               scale: 1,
             },
           }}>
-          Construction Co. takes pride in quality workmanship, quality people and quality materials. Utilizing the latest technologies.
+          Lifespace takes pride in quality workmanship, quality people and quality materials. Utilizing the latest technologies.
           </motion.p>
         </div>
       </div>
