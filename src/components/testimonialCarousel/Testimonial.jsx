@@ -17,12 +17,11 @@ const Testimonial = () => {
     <section className="mainTestimonial">
       <div className="testimonial">
         <div className="testi-left">
-          <h3 className="testi-title">Testimonial</h3>
-          <p className="happyCustomer">Happy customers</p>
+          <h3 className="testi-title">Why invest in real estate in</h3>
+          <p className="happyCustomer">Panvel</p>
           <div className="yellowLine"></div>
           <p className="testi-text">
-            We are so delighted with your feedbacks, and we will always provide
-            excellence services to all. thanks happy customers.
+          Panvel, a city in the Raigad district of Maharashtra, is emerging as a popular destination for real estate investment in 2024.
           </p>
         </div>
         {/* new component */}

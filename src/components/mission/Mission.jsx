@@ -11,7 +11,7 @@ const Mission = () => {
         </div>
       </div>
       <div className="missionRight">
-        <h2 className="missionTitle">Welcome to Construction Co. </h2>
+        <h2 className="missionTitle">Welcome to Lifespace </h2>
         <h3 className="rightTitle">your trusted partner in construction and development projects. </h3>
         <p className="missionText">
           {" "}
