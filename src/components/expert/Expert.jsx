@@ -8,7 +8,7 @@ import expertData from "../../api/ExpertData";
 const Expert = () => {
   return (
     <section className="expert">
-      <h4 className="expertMainTitle">Meet out experts</h4>
+      <h4 className="expertMainTitle">Meet the man behind Lifespace</h4>
       <div className="expertContainer">
         {expertData &&
           expertData.map((info) => (
